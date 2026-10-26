@@ -1,0 +1,3 @@
+# TC6: ALL succeeds if at least one store fires
+GT4500,10,0,0,0
+TORPEDO,ALL  # secondary empty, primary fires

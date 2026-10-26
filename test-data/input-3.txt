@@ -1,0 +1,3 @@
+# TC3: SINGLE fires the other store if the next one is empty
+GT4500,0,0,10,0
+TORPEDO,SINGLE  # primary empty -> secondary

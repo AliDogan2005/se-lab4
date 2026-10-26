@@ -1,0 +1,5 @@
+# TC2: SINGLE alternates between stores
+# primary never fails, secondary always fails
+GT4500,10,0,10,1.0
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary -> FAIL proves it was chosen
