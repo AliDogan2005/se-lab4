@@ -1,0 +1,4 @@
+# TC9: SINGLE fails when both stores are empty after primary was fired
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # primary, now empty
+TORPEDO,SINGLE  # both empty

@@ -1,0 +1,3 @@
+# TC10: ALL succeeds if only the secondary store can fire
+GT4500,0,0,10,0
+TORPEDO,ALL  # primary empty, secondary fires

@@ -1,0 +1,4 @@
+# TC8: SINGLE fires primary again if secondary (next in line) is empty
+GT4500,10,0,0,0
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary empty -> primary again
